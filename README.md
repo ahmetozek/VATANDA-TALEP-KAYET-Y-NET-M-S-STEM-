@@ -1,1 +1,2 @@
 # VATANDA-TALEP-KAYET-Y-NET-M-S-STEM-
+Vatandaş Talep Şikayet Yönetim Sistemi, vatandaşların talep, öneri ve şikayetlerini ilgili birimlere kolay ve düzenli bir şekilde iletebilmesini sağlamak amacıyla geliştirilmiştir. Sistem sayesinde başvurular kayıt altına alınabilir, ilgili birimlere yönlendirilebilir ve vatandaşlar başvurularının durumunu takip edebilir. Böylece vatandaş ile kurum arasındaki iletişimin daha hızlı, şeffaf ve düzenli hale getirilmesi hedeflenmektedir.
